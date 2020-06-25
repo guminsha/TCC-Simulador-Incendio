@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: d64928c7624fb8e4b8b1e4d2ba8904c9
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao entradas
+    second: {fileID: 2100000, guid: 0f53dfe8184ba1b49814352def5f063d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao sala 1
+    second: {fileID: 2100000, guid: 8dff38b9dfb6eff43954b7ee6f1668de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao sala 2
+    second: {fileID: 2100000, guid: f0ac0f07c13172f46b35dd9cf0200b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao sala 3
+    second: {fileID: 2100000, guid: 843fabc42e362644aabb7e45525b0330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao sala 4
+    second: {fileID: 2100000, guid: 42e9b0e310a8a594a9404c998f597c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chao sala 5
+    second: {fileID: 2100000, guid: 7cbbbd9f4c0b32e468cb82d377570dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor 1
+    second: {fileID: 2100000, guid: f9ea655d3b787754693d37d6abafebf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor 1 Teto
+    second: {fileID: 2100000, guid: 73539a7fde5a057499df262b71990de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor Principal
+    second: {fileID: 2100000, guid: 5269c590fc2cc5f4db105aaaa81e1e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor Teto
+    second: {fileID: 2100000, guid: c8c46ee672da8f441b5a46889ca3da36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor final Teto
+    second: {fileID: 2100000, guid: e638eb08e5dbf5e468a0b73f0f50ef6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corredor final.001
+    second: {fileID: 2100000, guid: 2ff4431cbce3a724e939d6e48095c6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entradas Teto
+    second: {fileID: 2100000, guid: f0d9229b903141e43b20d6b6f761d14e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 1 Sala 1
+    second: {fileID: 2100000, guid: 62d299ae1f0f348438a015b62f775a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 1 sala 2
+    second: {fileID: 2100000, guid: 703f07432b37d7f4cb3a47e2040d775d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 1 sala 3
+    second: {fileID: 2100000, guid: 333aa2c5669be984c8ff245cf15b84fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 1 sala 4
+    second: {fileID: 2100000, guid: 9ddca471cab389e4d8f60da88fbbd7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 1 sala 5
+    second: {fileID: 2100000, guid: 844f483af0cbfeb4d8e491ccd40e0961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 2 Sala 1
+    second: {fileID: 2100000, guid: 71b2a90a23d21f94daebfafb6e6d31e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 2 sala 2
+    second: {fileID: 2100000, guid: b221c723943ad4c4ebb6e4a6339b8400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 2 sala 3
+    second: {fileID: 2100000, guid: ee0f7e0b30884a0458e6c65c8545a94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 2 sala 4
+    second: {fileID: 2100000, guid: c207e0dfc60d5b7428f3461fbdd0dc4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 2 sala 5
+    second: {fileID: 2100000, guid: 34390ffd67f744449baaa0bd8cf73bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 3 sala 1
+    second: {fileID: 2100000, guid: 77f3a8b6b4fdaa54bb4fc592e3822135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 3 sala 2
+    second: {fileID: 2100000, guid: 54411fb75f535e04a97ad479ed88b376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 3 sala 3
+    second: {fileID: 2100000, guid: f699e7dccccb533448ec63cc6a5817c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 3 sala 4
+    second: {fileID: 2100000, guid: a2757056f82f2874ab57a47b545728f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 3 sala 5
+    second: {fileID: 2100000, guid: 869820b90668d4c43984ae1e18c5ddd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 4 sala 1
+    second: {fileID: 2100000, guid: bb271114e3a0738478ecdfb84aace1e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 4 sala 2
+    second: {fileID: 2100000, guid: ff5b002fe74ae934480cbe936b77b121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 4 sala 3
+    second: {fileID: 2100000, guid: fe14d4ce3fb0fda4ebb7e33fd60a09ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 4 sala 4
+    second: {fileID: 2100000, guid: c86f97a2a6712094a9daffd9bd82e9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 4 sala 5
+    second: {fileID: 2100000, guid: 52f36aa9a7f3ed84db359d724de2a91b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 5 sala 1
+    second: {fileID: 2100000, guid: 22ba11d8333ce044cb43439002fac640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 5 sala 2
+    second: {fileID: 2100000, guid: 4cf4a7ab46c2c654587984599507572a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 5 sala 3
+    second: {fileID: 2100000, guid: 2ed1f036135145947aa8e74b0c969c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 5 sala 4
+    second: {fileID: 2100000, guid: 8dfbe5ec4275cf24492030ebea6c32aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede 5 sala 5
+    second: {fileID: 2100000, guid: 6f7d7e5005c70414589f9b745faf6f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 1
+    second: {fileID: 2100000, guid: f5841a261cfe8044b8f574507e5be23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 2
+    second: {fileID: 2100000, guid: b00ce5131d805a340adbc8db4ce61ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 3
+    second: {fileID: 2100000, guid: b75f1b5cc68ce6641b0baa46d59b4b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 4
+    second: {fileID: 2100000, guid: 660b796d06f3fcb409d2a56f9c5c454c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 5
+    second: {fileID: 2100000, guid: 92aff6b5c87c4aa4eb1684a8e144de0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor 1 6
+    second: {fileID: 2100000, guid: 737b12c5c9965814c9dfb3313ab8883e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor final 1
+    second: {fileID: 2100000, guid: 46a223b3ffae6d144ae72bb7c92b0118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor final 2
+    second: {fileID: 2100000, guid: 3e9e413b771c8cc45a69735c33561a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor final 3
+    second: {fileID: 2100000, guid: b9a203985135f404eb3bf0a78ceb8eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor final 4
+    second: {fileID: 2100000, guid: cf62986cb3584e8458377e2b57cb4ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor final 5
+    second: {fileID: 2100000, guid: 1e01437c5df843e4892f0a929fbb8880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor principal 1
+    second: {fileID: 2100000, guid: cc3cdb3af0b78ad49bbb8eeccb79abf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor principal 2
+    second: {fileID: 2100000, guid: 009d41b07e232b747aba84b3c2549b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor principal 3
+    second: {fileID: 2100000, guid: 707d4614fa6b0744f90e9c3e3e3ca2ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede corredor principal 4
+    second: {fileID: 2100000, guid: ee8a07ddcf603a44d9eb41a6e4a143b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede entrada sala 2
+    second: {fileID: 2100000, guid: d94ccb2920e71024a8d5b73e5e268062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede entrada sala 3
+    second: {fileID: 2100000, guid: a34e09e1a0930894cae52904fbbfb005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede entrada sala 4
+    second: {fileID: 2100000, guid: b9a01235e632d704d9e06f292a773566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede entrada sala 5
+    second: {fileID: 2100000, guid: fa62bbd691187984dac774f1621ee4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede externa direita
+    second: {fileID: 2100000, guid: 221e3042920778b44b5f8cbb0c50d7b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede externa esquerda
+    second: {fileID: 2100000, guid: 253aa1a76e45c9f478a098b0a773fa30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede externa frente 1
+    second: {fileID: 2100000, guid: 26af7be9595e88144b2f130e243a2a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede externa frente 2
+    second: {fileID: 2100000, guid: 09658a128d093d645b224ee84d59da31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes entrada principal
+    second: {fileID: 2100000, guid: 46e610a39cf929342a4a6384b333a546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes entrada sala 1
+    second: {fileID: 2100000, guid: 7b901eb3bc2009249913a3264dc98006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto Sala 1
+    second: {fileID: 2100000, guid: 232f795346d10ed458acc4e9b38bdf9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto Sala 2
+    second: {fileID: 2100000, guid: 2c7d100ef5d85464cb836a790c32f201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto Sala 3
+    second: {fileID: 2100000, guid: 3004cdbb6a973444da6e4978b257c2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto Sala 4
+    second: {fileID: 2100000, guid: 58dac6860452fc44bb4fbb66b18c1a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teto Sala 5
+    second: {fileID: 2100000, guid: 3be70ee061f689c49a944a5cd7b4b290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parede externa tras
+    second: {fileID: 2100000, guid: 2580bd8e479f64144af3b6e061251df1, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

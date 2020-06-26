@@ -1,4 +1,4 @@
-<a href="https://github.com/guminsha/TCC-Simulador-Incendio"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Simulador de treinamento para prevenção e combate à incêndios" alt="Extintor"></a>
+<a href="https://github.com/guminsha/TCC-Simulador-Incendio"><img src="https://img.freepik.com/vetores-gratis/icone-do-extintor-de-incendio-estilo-dos-desenhos-animados-icone-de-equipamento-de-fogo-de-silhueta-unica-estilo-plano_7714-377.jpg?size=338&ext=jpg" title="Simulador de treinamento para prevenção e combate à incêndios" alt="Extintor"></a>
 
 # Criação de um simulador para o treinamento de combate e prevenção à incêndios através da realidade virtual
 
